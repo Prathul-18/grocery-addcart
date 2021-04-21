@@ -1,0 +1,12 @@
+.post__content-wrapper--is-overlapped {
+    background: #fff;
+    padding: .625rem 0 0;
+    position: relative;
+}
+@media print, screen and (min-width: 40em)
+.post__content-wrapper--has-stripes {
+    margin-top: 50px;
+}
+.post__content-wrapper--has-stripes {
+    margin-top: 40px;
+}
